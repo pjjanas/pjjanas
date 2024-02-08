@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pjjanas
 - 👀 I’m interested in astrophysics, game development and learning new skills!
-- 🌱 I’m currently learning Physics with Astrophysics, and some game development with Unity as a side hobby.
+- 🌱 I’m currently doing a PhD in Astrophysics, and some game development with Unity as a side hobby.
 - 💞️ I’m looking to collaborate on some interesting projects!
 - 📫 Contact me: pawel.janas.2020@mumail.ie
 
